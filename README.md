@@ -1,6 +1,7 @@
 # photographers-app-figma
 I designed an app using Figma that helps you find photographers based on your event.
 
+GO to app file and click on the link to view the App
 
 **Basic Details for Designing an App Using Figma:**
 
